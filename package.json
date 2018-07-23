@@ -2,7 +2,7 @@
     "name": "blz-ospl-highlighting",
     "displayName": "blz-ospl-highlighting",
     "description": "Provides syntax highlighting for the blz open-source programming language.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "vaughan",
     "engines": {
         "vscode": "^1.25.0"

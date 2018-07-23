@@ -1,0 +1,26 @@
+{
+    "name": "blz-ospl-highlighting",
+    "displayName": "blz-ospl-highlighting",
+    "description": "Provides syntax highlighting for the blz open-source programming language.",
+    "version": "0.0.1",
+    "publisher": "vaughan",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "blz",
+            "aliases": ["Blaze", "blz"],
+            "extensions": [".blz"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "blz",
+            "scopeName": "source.blz",
+            "path": "./syntaxes/blz.tmLanguage.json"
+        }]
+    }
+}

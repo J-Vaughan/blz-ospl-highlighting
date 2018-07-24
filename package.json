@@ -20,7 +20,8 @@
                 "id": "blz",
                 "aliases": [
                     "Blaze",
-                    "blz"
+                    "blz",
+					"blz-ospl"
                 ],
                 "extensions": [
                     ".blz"

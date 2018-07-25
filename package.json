@@ -2,7 +2,7 @@
     "name": "blz-ospl-highlighting",
     "displayName": "blz-ospl-highlighting",
     "description": "Provides syntax highlighting for the blz open-source programming language.",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/J-Vaughan/blz-ospl-highlighting.git"
@@ -21,7 +21,7 @@
                 "aliases": [
                     "Blaze",
                     "blz",
-					"blz-ospl"
+                    "blz-ospl"
                 ],
                 "extensions": [
                     ".blz"

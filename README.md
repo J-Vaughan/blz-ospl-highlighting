@@ -7,13 +7,9 @@ programming language.
 
 Highlights many keywords, operators, etc.
 
-## Known Issues
-
-Does not highlight operators
-
 ## Release Notes
 
-### 0.1.0
+### 0.1.1
 
 Initial release of blz-ospl-highlighting
 
@@ -21,9 +17,12 @@ Initial release of blz-ospl-highlighting
  - Line comments
  - Function definitions
  - Common flow keywords
+ - Block folding
+ - Function arguments
+ - Constructors
+ - Operators
+
 
 #### Does not support
- - Function arguments
  - Function calls
  - Variables
- - Operators
